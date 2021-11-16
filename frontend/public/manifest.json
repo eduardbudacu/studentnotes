@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Student Notes",
+  "name": "A simple note taking app with markdown and youtube integration",
   "icons": [
     {
       "src": "favicon.ico",

@@ -19,12 +19,6 @@ $router->get('/', function () use ($router) {
 
 $router->get('/videos', 'VideosController@show');
 
-$router->get('/api/notes', function() {
-    return [
-        ['title' => 'A note', 'body' => '#markdown', 'date' => '2021-08-10']
-    ];
-});
-
 // API route group
 $router->group(['prefix' => 'api'], function () use ($router) {
     // Matches "/api/register
@@ -41,4 +35,6 @@ $router->group(['prefix' => 'api'], function () use ($router) {
 
     // Matches "/api/users
     $router->get('users', 'UserController@allUsers');
+
+    $router->get('notes', 'NotesController@getAll');
 });

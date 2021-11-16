@@ -5,9 +5,24 @@ export default function Login() {
     const {
         register,
         handleSubmit,
-        formState: {errors}
+        formState: {errors},
+        reset
     } = useForm();
-    const onSubmit = (data) => console.log(data);
+    const onSubmit = async (data) => {
+        let response = await fetch('/api/login', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(data)
+        })
+        if(response.status == '200') {
+            console.log(await response.json());
+        } else {
+            alert('Invalid credentials');
+            reset();
+        }
+    }
 
     return (
         <section className="section-input">
