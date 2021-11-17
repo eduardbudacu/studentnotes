@@ -19,6 +19,11 @@ $router->get('/', function () use ($router) {
 
 $router->get('/videos', 'VideosController@show');
 
+$router->get('/institutions', function() {
+    $data = json_decode(file_get_contents('../resources/data/institutions.json'), true);
+    return array_map(function($institution) {return array_intersect_key($institution['_source'], array_flip(['name', 'shortName', 'aliases']));}, $data['hits']['hits']);
+});
+
 // API route group
 $router->group(['prefix' => 'api'], function () use ($router) {
     // Matches "/api/register

@@ -1,0 +1,2464 @@
+{
+    "hits": {
+        "total": 88,
+        "max_score": null,
+        "hits": [
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8211",
+                "_score": 5,
+                "_source": {
+                    "name": "Academia de Studii Economice din Bucure\u0219ti",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "Bucharest Academy of Economic Studies"
+                    ],
+                    "acronyms": [
+                        "ASE"
+                    ],
+                    "shortName": "ASE Bucuresti",
+                    "region_code": "ro",
+                    "popularity": 2788,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    2788
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8216",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Alexandru Ioan Cuza din Ia\u0219i",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [
+                        "UAIC"
+                    ],
+                    "shortName": "University of Ia\u0219i",
+                    "region_code": "ro",
+                    "popularity": 1597,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    1597
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8221",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Babe\u0219-Bolyai",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "Babe\u0219-Bolyai University",
+                        "Babe\u0219-Bolyai Tudom\u00e1nyegyetem"
+                    ],
+                    "acronyms": [
+                        "UBB"
+                    ],
+                    "shortName": "UBB",
+                    "region_code": "ro",
+                    "popularity": 1577,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    1577
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8246",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea din Bucuresti",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "University of Bucharest"
+                    ],
+                    "acronyms": [
+                        "UNIBUC"
+                    ],
+                    "shortName": "UniBuc",
+                    "region_code": "ro",
+                    "popularity": 1325,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    1325
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8243",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea de Vest din Timisoara",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [
+                        "UVT"
+                    ],
+                    "shortName": "UVT",
+                    "region_code": "ro",
+                    "popularity": 766,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    766
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8271",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Politehnica din Bucuresti",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "Polytechnic University of Bucharest"
+                    ],
+                    "acronyms": [],
+                    "shortName": "UPB",
+                    "region_code": "ro",
+                    "popularity": 573,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    573
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8275",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Stefan cel Mare Suceava",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "\u0218tefan cel Mare University of Suceava",
+                        "University of Suceava"
+                    ],
+                    "acronyms": [
+                        "USV"
+                    ],
+                    "shortName": "USV",
+                    "region_code": "ro",
+                    "popularity": 415,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    415
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8251",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Dunarea de Jos din Galati",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "\"Dunarea de Jos\" University of Galati",
+                        "University of Gala\u021bi"
+                    ],
+                    "acronyms": [
+                        "UGAL"
+                    ],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 411,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    411
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8267",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Ovidius Constanta",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 394,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    394
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8280",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Titu Maiorescu",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [
+                        "UTM"
+                    ],
+                    "shortName": "UTM",
+                    "region_code": "ro",
+                    "popularity": 351,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    351
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8247",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea din Craiova",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 346,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    346
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8248",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea din Oradea",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "University of Oradea"
+                    ],
+                    "acronyms": [],
+                    "shortName": "UOradea",
+                    "region_code": "ro",
+                    "popularity": 312,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    312
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8281",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Transilvania din Brasov",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "UniTBv",
+                    "region_code": "ro",
+                    "popularity": 237,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    237
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8258",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Lucian Blaga din Sibiu",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "ULBS",
+                    "region_code": "ro",
+                    "popularity": 179,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    179
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8213",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Politehnica din Timisoara",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "Politehnica University of Timi\u0219oara"
+                    ],
+                    "acronyms": [
+                        "UPT"
+                    ],
+                    "shortName": "UPT",
+                    "region_code": "ro",
+                    "popularity": 168,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    168
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8232",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea de Medicina si Farmacie Carol Davila",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 160,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    160
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8226",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Cre\u0219tin\u0103 Dimitrie Cantemir",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 143,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    143
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8220",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Aurel Vlaicu din Arad",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "Aurel Vlaicu University of Arad"
+                    ],
+                    "acronyms": [
+                        "UAV"
+                    ],
+                    "shortName": "UAV",
+                    "region_code": "ro",
+                    "popularity": 129,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    129
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8214",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea 1 Decembrie 1918 din Alba Iulia",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "\"1 Decembrie 1918\" University, Alba Iulia"
+                    ],
+                    "acronyms": [
+                        "UAB"
+                    ],
+                    "shortName": "UAB",
+                    "region_code": "ro",
+                    "popularity": 121,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    121
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8282",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Valahia din T\u00e2rgoviste",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "Valahia University of T\u00e2rgovi\u015fte"
+                    ],
+                    "acronyms": [],
+                    "shortName": "Valahia",
+                    "region_code": "ro",
+                    "popularity": 103,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    103
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8212",
+                "_score": 5,
+                "_source": {
+                    "name": "\u0218coala Na\u021bional\u0103 de Studii Politice \u0219i Administrative",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "National School of Political and Administrative Studies"
+                    ],
+                    "acronyms": [],
+                    "shortName": "SNSPA",
+                    "region_code": "ro",
+                    "popularity": 94,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    94
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8266",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Nicolae Titulescu din Bucuresti",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 84,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    84
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8235",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea de Medicina si Farmacie Gr. T. Popa",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 83,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    83
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8274",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Spiru Haret",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 80,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    80
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8236",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea de Medicina si Farmacie Iuliu Hatieganu din Cluj",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "Iuliu Ha\u021bieganu University of Medicine and Pharmacy"
+                    ],
+                    "acronyms": [
+                        "UMF Cluj"
+                    ],
+                    "shortName": "UMF Cluj",
+                    "region_code": "ro",
+                    "popularity": 77,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    77
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8250",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea din Pitesti",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "University of Pite\u015fti"
+                    ],
+                    "acronyms": [
+                        "UPIT"
+                    ],
+                    "shortName": "UPIT",
+                    "region_code": "ro",
+                    "popularity": 73,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    73
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8237",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea de Medicin\u0103 \u0219i Farmacie Victor Babe\u0219 din Timi\u0219oara",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 67,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    67
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8278",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Tehnica Gheorghe Asachi din Iasi",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "Gheorghe Asachi Technical University"
+                    ],
+                    "acronyms": [
+                        "TUIASI"
+                    ],
+                    "shortName": "TUIASI",
+                    "region_code": "ro",
+                    "popularity": 61,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    61
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8264",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Na\u021bional\u0103 de Educa\u021bie Fizic\u0103 \u0219i Sport",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 56,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    56
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8257",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea HYPERION",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "Hyperion",
+                    "region_code": "ro",
+                    "popularity": 53,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    53
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8217",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Andrei Saguna",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 52,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    52
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8233",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea de Medicina si Farmacie din Craiova",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 50,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    50
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8276",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Tehnica Cluj-Napoca",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 50,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    50
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8272",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Rom\u00e2no-Americana din Bucuresti",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "Romanian-American University"
+                    ],
+                    "acronyms": [
+                        "RAU"
+                    ],
+                    "shortName": "RAU",
+                    "region_code": "ro",
+                    "popularity": 47,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    47
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8242",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea de \u0218tiin\u021be Agronomice \u0219i Medicin\u0103 Veterinar\u0103 din Bucure\u0219ti",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 45,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    45
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8225",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Constantin Br\u00e2ncu\u0219i din T\u00e2rgu Jiu",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "Universitatea Constantin Br\u00e2ncu\u0219i",
+                    "region_code": "ro",
+                    "popularity": 45,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    45
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8234",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea de Medicina si Farmacie din T\u00e2rgu-Mures",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 31,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    31
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8244",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea de Vest Vasile Goldis Arad",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "Vasile Goldi\u0219 Western University of Arad"
+                    ],
+                    "acronyms": [
+                        "UVVG"
+                    ],
+                    "shortName": "UVVG",
+                    "region_code": "ro",
+                    "popularity": 31,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    31
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8238",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea de Nord",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 28,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    28
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8283",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Vasile Alecsandri din Bacau",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 25,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    25
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8241",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea de Stiinte Agricole si Medicina Veterinara din Iasi",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 24,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    24
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8269",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Petrol-Gaze din Ploiesti",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "Oil & Gas University of Ploie\u0219ti"
+                    ],
+                    "acronyms": [
+                        "UPG"
+                    ],
+                    "shortName": "UPG",
+                    "region_code": "ro",
+                    "popularity": 23,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    23
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8277",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Tehnic\u0103 de Construc\u021bii din Bucure\u0219ti",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 19,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    19
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8261",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Na\u021bional\u0103 de Ap\u0103rare Carol I",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 19,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    19
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8252",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Ecologica din Bucure?ti",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 17,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    17
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8268",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Petre Andrei din Iasi",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 17,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    17
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8256",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea George Baritiu din Brasov",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 16,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    16
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8259",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Maritima din Constan?a",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 16,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    16
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8227",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Danubius",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 15,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    15
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8239",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea de Stiinte Agricole si Medicina Veterinara a Banatului Timisoara",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 15,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    15
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8262",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Nationala de Arta Teatrala si Cinematografica Ion Luca Caragiale",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 15,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    15
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8263",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Nationala de Arte Bucuresti",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 15,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    15
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8273",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Rom\u00e2no-Germana din Sibiu",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 15,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    15
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8228",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea de Arhitectura si Urbanism Ion Mincu din Bucuresti",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 12,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    12
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8224",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Constantin Br\u00e2ncoveanu",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 11,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    11
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8249",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea din Petrosani",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 11,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    11
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8270",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Petru Maior din T\u00e2rgu-Mures",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 11,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    11
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8279",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Tibiscus din Timisoara",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 11,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    11
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8240",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea de Stiinte Agricole si Medicina Veterinara din Cluj-Napoca",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 10,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    10
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8210",
+                "_score": 5,
+                "_source": {
+                    "name": "Academia de Muzica Gheorghe Dima",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 9,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    9
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8215",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Agora din Oradea",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 9,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    9
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8219",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Athenaeum din Bucuresti",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 9,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    9
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8223",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Bogdan Voda din Cluj-Napoca",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 8,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    8
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8265",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Nationala de Muzica Bucuresti",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 7,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    7
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8218",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Artifex din Bucuresti",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 6,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8255",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Europeana Dragan",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 6,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "37320",
+                "_score": 5,
+                "_source": {
+                    "name": "Academia For\u021belor Terestre Nicolae B\u0103lcescu din Sibiu",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": null,
+                    "region_code": "ro",
+                    "popularity": 6,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    6
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "15443",
+                "_score": 5,
+                "_source": {
+                    "name": "Academia Tehnic\u0103 Militar\u0103 Ferdinand I",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "Military Technical Academy",
+                        "Academia Tehnic\u0103 Militar\u0103 din Bucure\u0219ti"
+                    ],
+                    "acronyms": [],
+                    "shortName": "Academia Tehnic\u0103 Militar\u0103",
+                    "region_code": "ro",
+                    "popularity": 5,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    5
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8229",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea de Arta si Design Cluj-Napoca",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 5,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    5
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8231",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea de Arte George Enescu Iasi",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 5,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    5
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8253",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Eftimie Murgu din Resita",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 5,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    5
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8222",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Bioterra din Bucure?ti",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 4,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    4
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8230",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea de Arte din T\u00e2rgu Mure",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 4,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    4
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8260",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Mihail Kogalniceanu",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 3,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    3
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "8254",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Emanuel din Oradea",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "",
+                    "region_code": "ro",
+                    "popularity": 2,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    2
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "22467",
+                "_score": 5,
+                "_source": {
+                    "name": " Academia Naval\u0103 Mircea cel B\u0103tr\u00e2n",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "Mircea cel B\u0103tr\u00e2n Naval Academy"
+                    ],
+                    "acronyms": [],
+                    "shortName": null,
+                    "region_code": "ro",
+                    "popularity": 1,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    1
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "23970",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea George Bacovia din Bac\u0103u",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": null,
+                    "region_code": "ro",
+                    "popularity": 1,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    1
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "31694",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Apollonia",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": null,
+                    "region_code": "ro",
+                    "popularity": 1,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    1
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "32957",
+                "_score": 5,
+                "_source": {
+                    "name": "\u0218coala Postliceal\u0103 sanitar\u0103 de stat Grigore Ghica Vod\u0103 ",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": null,
+                    "region_code": "ro",
+                    "popularity": 1,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    1
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "39296",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Adventus",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": null,
+                    "region_code": "ro",
+                    "popularity": 1,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    1
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "39402",
+                "_score": 5,
+                "_source": {
+                    "name": "Liceul Tehnologic Dacia",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": null,
+                    "region_code": "ro",
+                    "popularity": 1,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    1
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "43525",
+                "_score": 5,
+                "_source": {
+                    "name": "Liceul Tehnologic Construc\u021bii de Ma\u0219ini Mioveni",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": null,
+                    "region_code": "ro",
+                    "popularity": 1,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    1
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "43664",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Ecologic\u0103 din Bucure\u0219ti",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": null,
+                    "region_code": "ro",
+                    "popularity": 1,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    1
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "44459",
+                "_score": 5,
+                "_source": {
+                    "name": "Liceul Victor Babe\u0219",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [
+                        "Colegiul Na\u021bional Victor Babe\u0219"
+                    ],
+                    "acronyms": [],
+                    "shortName": null,
+                    "region_code": "ro",
+                    "popularity": 1,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    1
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "44502",
+                "_score": 5,
+                "_source": {
+                    "name": "Universitatea Cre\u0219tin\u0103 Partium",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": null,
+                    "region_code": "ro",
+                    "popularity": 1,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    1
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "45072",
+                "_score": 5,
+                "_source": {
+                    "name": "Genesis College",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": null,
+                    "region_code": "ro",
+                    "popularity": 1,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    1
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "55170",
+                "_score": 5,
+                "_source": {
+                    "name": "Liceul Teoretic Nicolae Iorga",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": null,
+                    "region_code": "ro",
+                    "popularity": 1,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    1
+                ]
+            },
+            {
+                "_index": "stu_institution_v3",
+                "_type": "institution",
+                "_id": "32686",
+                "_score": 5,
+                "_source": {
+                    "name": "\u0218coala Posalstantliceal\u0103 Sanitar\u0103 Drobeta Turnul Severin",
+                    "deleted": false,
+                    "active": true,
+                    "study_search_is_visible": false,
+                    "language": "language_ro",
+                    "aliases": [],
+                    "acronyms": [],
+                    "shortName": "\u0218coala Posalstantliceal\u0103 Sanitar\u0103",
+                    "region_code": "ro",
+                    "popularity": 0,
+                    "country": {
+                        "id": 147,
+                        "name": "Romania",
+                        "geocode": "RO"
+                    }
+                },
+                "sort": [
+                    5,
+                    0
+                ]
+            }
+        ]
+    }
+}

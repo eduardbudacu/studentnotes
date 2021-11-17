@@ -1,7 +1,10 @@
 import React from 'react';
 import {useForm} from 'react-hook-form';
+import { useNavigate } from "react-router-dom";
 
 export default function Login() {
+    const navigate = useNavigate();
+
     const {
         register,
         handleSubmit,
@@ -17,7 +20,10 @@ export default function Login() {
             body: JSON.stringify(data)
         })
         if(response.status == '200') {
-            console.log(await response.json());
+            let authData = await response.json();
+            localStorage.setItem('jwt_token', JSON.stringify(authData.token));
+            console.log('auth success');
+            navigate('/');
         } else {
             alert('Invalid credentials');
             reset();
@@ -41,7 +47,7 @@ export default function Login() {
                     <input type="password" {...register('password')} className="form-control" placeholder="Enter password" />
                 </div>
 
-                <div className="form-group">
+                <div className="form-group" style={{marginTop: "10px", textAlign:"right"}}>
                     <input type="submit" className="btn btn-primary" />
                 </div>
             </form>

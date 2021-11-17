@@ -27,6 +27,11 @@ Create a local ```.env``` file and update database credentials
 ```
 cp .env.example .env
 ```
+Generate JWT secret
+
+```
+php artisan jwt:secret
+```
 
 Create database 
 
