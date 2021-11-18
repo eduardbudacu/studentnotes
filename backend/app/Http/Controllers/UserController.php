@@ -32,7 +32,7 @@ class UserController extends Controller
      *
      * @return Response
      */
-    public function allUsers()
+    public function getAll()
     {
          return response()->json(['users' =>  User::all()], 200);
     }
@@ -42,7 +42,7 @@ class UserController extends Controller
      *
      * @return Response
      */
-    public function singleUser($id)
+    public function getOne($id)
     {
         try {
             $user = User::findOrFail($id);

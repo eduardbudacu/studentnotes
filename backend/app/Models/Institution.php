@@ -1,19 +1,19 @@
 <?php
 
-use LearningResources\LearningResource as LearningResource;
+namespace App\Models;
 
-class Institution {
-    protected $name;
-    protected $location;
-    protected $learningResources = [];
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
 
-    public function __construct($name, $location)
-    {
-        $this->name = $name;
-        $this->location = $location;
-    }
+class Institution extends Model {
+    use HasFactory;
 
-    public function addLearningResource(LearningResource $lr) {
-        $this->learningResources[] = $lr;
-    }
+    /**
+     * The attributes that are mass assignable.
+     *
+     * @var array
+     */
+    protected $fillable = [
+        'name', 'shortName'
+    ];
 }
