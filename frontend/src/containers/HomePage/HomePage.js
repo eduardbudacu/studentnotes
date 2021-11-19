@@ -5,7 +5,7 @@ export default function HomePage() {
         <div>
             <h1>Student notes</h1>
 
-            <Link to="/login">Login</Link>
+            <Link to="/login">Login</Link> | <Link to="/register">Register</Link>
         </div>
     )
 }
