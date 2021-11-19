@@ -9,8 +9,6 @@ use Google\Service\YouTube as YouTube;
 class YoutubeVideo extends LearningResource {
     protected $videoId;
 
-    const API_KEY = 'AIzaSyBtRw6rph50zvowTJkpu8Bl9fzWyxv_VpY';
-
     public static function createFromUrl($url) {
         $obj = new self();
         $url = self::getFinalUrl($url);
@@ -25,7 +23,7 @@ class YoutubeVideo extends LearningResource {
      */
     protected function getVideoDetails() {
         $client = new Google_Client();
-        $client->setDeveloperKey(self::API_KEY);
+        $client->setDeveloperKey(env('GOOGLE_CLOUD_API_KEY'));
 
         $youtube = new YouTube($client);
         $videoResponse = $youtube->videos->listVideos('snippet', array(
